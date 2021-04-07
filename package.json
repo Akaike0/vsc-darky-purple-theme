@@ -38,12 +38,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darky Purple Theme",
+        "label": "Darky Purple",
         "path": "./themes/darky-purple-theme.json",
         "uiTheme": "vs-dark"
       },
       {
-        "label": "Darky Purple Storm Theme",
+        "label": "Darky Purple Storm",
         "path": "./themes/darky-purple-storm-theme.json",
         "uiTheme": "vs-dark"
       }
