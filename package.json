@@ -1,0 +1,49 @@
+{
+  "name": "darky-purple-theme",
+  "displayName": "Darky Purple Theme",
+  "description": "The most awesome theme for your eyes and love of puprle!",
+  "version": "1.0.0",
+  "publisher": "alexanderalekseenko",
+  "license": "MIT",
+  "author": "Alexander Alekseenko",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#6A6FE0",
+    "theme": "dark"
+  },
+  "homepage": "https://mycode.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akaike0/vsc-darky-purple-theme.git"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "VSCode",
+    "Themes",
+    "Pruple",
+    "Dark theme",
+    "Theme",
+    "Pruple theme"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darky Purple Theme",
+        "path": "./themes/darky-purple-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Darky Purple Storm Theme",
+        "path": "./themes/darky-purple-storm-theme.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  }
+}
