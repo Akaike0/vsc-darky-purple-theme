@@ -2,7 +2,7 @@
   "name": "darky-purple-theme",
   "displayName": "Darky Purple Theme",
   "description": "The most awesome theme for your eyes and love of puprle!",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "publisher": "alexanderalekseenko",
   "license": "MIT",
   "author": "Alexander Alekseenko",
@@ -39,12 +39,12 @@
     "themes": [
       {
         "label": "Darky Purple",
-        "path": "./themes/darky-purple-theme.json",
+        "path": "./themes/darky-purple.json",
         "uiTheme": "vs-dark"
       },
       {
         "label": "Darky Purple Storm",
-        "path": "./themes/darky-purple-storm-theme.json",
+        "path": "./themes/darky-purple-storm.json",
         "uiTheme": "vs-dark"
       }
     ]
