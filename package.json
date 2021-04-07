@@ -32,6 +32,9 @@
     "ui",
     "workspace"
   ],
+  "engines": {
+    "vscode": "^1.18.0"
+  },
   "contributes": {
     "themes": [
       {
